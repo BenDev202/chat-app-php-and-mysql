@@ -22,7 +22,7 @@ This is a real-time chat application built with PHP and JavaScript. It allows us
 ## Installation
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/realtime-chat-app.git](https://github.com/yourusername/realtime-chat-app.git)
+   git clone [[(https://github.com/BenDev202/chat-app-php-and-mysql.git)]
 
 2. Set up your web server (e.g., Apache) to serve the project directory.
 
